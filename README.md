@@ -1,8 +1,8 @@
 # Synchronize with the original repository
 
 - git fetch upstream
-- git merge upstream/master
-- git push origin master
+- git merge upstream/main
+- git push origin main
 
 
 # Chihiros LED Control
